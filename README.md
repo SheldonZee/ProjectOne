@@ -1,6 +1,7 @@
 # ProjectOne
-Date：2024/8/3
-    基于YOLO的第一部分功能模块：出入车辆出入识别与统计。
+Date：2024/8/3 
+
+基于YOLO的第一部分功能模块：出入车辆出入识别与统计。
     
 本模块计划使用Pycharm作为IDE，通过Anaconda配置Python环境，使用Git作为版本控制工具，主要使用Pytorch库，通过导入开源的YOLO模型，进行本地训练；
     
